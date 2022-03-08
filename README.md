@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [nemo](https://github.com/pregalaxyer/nemo), [sardine](https://github.com/pregalaxyer/sardine)
 
 - 🌱 I’m currently learning **Rust**
--  Current focus on the tools base on [Swagger OpenAPI Specification](https://swagger.io/specification/v2/)
+- 💻 Current focus on the tools base on [Swagger OpenAPI Specification](https://swagger.io/specification/v2/)
 
 - 💬 Ask me about **React, Vue, Js**
 
